@@ -2,37 +2,23 @@
 
 ## 👋 About Me
 
-Hi, I'm HC.
+Hi, I'm 高渙羣.
 
-I'm learning to become an AI Solution Consultant.
+I'm currently learning Python, AI, and AI Agent development.
 
-This repository records my learning journey and AI projects.
-
----
-
-## 🎯 Goal
-
-- AI Solution Consultant
-- AI Automation Engineer
-- AI Agent Developer
+My goal is to become an AI Solution Consultant.
 
 ---
 
-## 📚 Learning Roadmap
+## Current Progress
 
-- [ ] Python
-- [ ] Git & GitHub
-- [ ] REST API
-- [ ] FastAPI
-- [ ] SQL
-- [ ] Supabase
-- [ ] Docker
-- [ ] n8n
-- [ ] AI Agent
-- [ ] RAG
+- ✅ Day01 Python
+- ⏳ Day02 Input & Variable
+- ⏳ Learning GitHub
 
 ---
 
-## 🚀 Projects
+## Projects
 
-Coming Soon...
+- AI Career Profile
+- AI Learn Hub (Coming Soon)
