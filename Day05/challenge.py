@@ -1,4 +1,4 @@
-games =[]
+games = []
 count = 1
 print("請輸入三個喜歡的遊戲")
 for i in range(3):
