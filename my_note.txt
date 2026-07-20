@@ -1,0 +1,4 @@
+My name is HCK
+I am learning Python
+Day12
+I love Python
