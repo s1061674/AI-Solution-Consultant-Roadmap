@@ -10,7 +10,7 @@ class Character:
             target.hp = 0
 
     def is_alive(self):
-        self.hp > 0
+        return self.hp > 0
 
     def damage(self):
         return self.attack
