@@ -11,7 +11,6 @@ class Character:
     def max_level(cls, name):
         return cls(name, 100)
 
-p1 = Character("Arthur", 20)
 p1 = Character.beginner("Arthur")
 p2 = Character.max_level("Amy")
 
